@@ -23,10 +23,10 @@ Create a one-page dashboard visualizing the integrated data. Include key metrics
 ## Deliverables
 
 1. **Link to live dashboard** (required)
-2. **SQL scripts** used for data transformation and unified model creation
+2. **SQL script** used for data transformation and unified model creation
 
 ## Submission
-Send the dashboard link and GitHub repository with your SQL scripts and documentation.
+Send the dashboard link and GitHub repository with your SQL script and documentation.
 
 ## Evaluation
 We'll assess technical execution, data accuracy, visualization quality, and insights generated.
