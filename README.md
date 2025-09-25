@@ -15,7 +15,7 @@ Your mission: Transform raw advertising data from three major platforms into act
 ### 1. Database Setup
 - Upload all three CSV files to a cloud database of your choice
 - Create an additional table that unifies data from these 3 tables
-- Any professional cloud database is acceptable (BigQuery, Redshift, Snowflake, PostgreSQL, etc.). Most of them should have a free tier and free tied is enough.
+- Any professional cloud database is acceptable (BigQuery, Redshift, Snowflake, PostgreSQL, etc.). Most of them should have a free tier and free tier is enough.
 
 ### 2. Dashboard
 Create a one-page dashboard visualizing the integrated data. Include key metrics and insights you find relevant for cross-channel performance analysis.
