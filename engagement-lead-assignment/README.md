@@ -13,11 +13,15 @@ While Engagement Leads don't typically build dashboards or deploy databases in d
 
 ## Requirements
 
-### 1. Database Setup
+### 1. Data Transformation
 
-- Upload all three CSV files to a cloud database of your choice
-- Create an additional table that unifies data from these 3 tables
-- Any professional cloud database is acceptable (BigQuery, Redshift, Snowflake, PostgreSQL, etc.). Most have free tiers sufficient for this task.
+- Create a unified dataset from all three CSV files using SQL
+- **You choose your approach:**
+  - **Cloud database** (BigQuery, Redshift, Snowflake, etc.) - good practice for real-world scenarios
+  - **Local tools** (DuckDB, SQLite, PostgreSQL on Docker) - faster setup if you prefer
+  - **Python + SQL** (pandas + sqlalchemy, or polars) - if that's your comfort zone
+
+**Important:** Regardless of your chosen tool, you must provide a SQL script showing your transformation logic. We want to see how you think about joining and unifying multi-source data.
 
 ### 2. Dashboard
 
@@ -28,9 +32,9 @@ Create a one-page dashboard visualizing the integrated data. Include key metrics
 Record a single video where you:
 
 **Part A - Technical Walkthrough (~2 min)**
-- Open the database tool where you performed your data transformation
 - Show your SQL script and briefly explain your transformation logic
 - Walk through how you unified the three data sources
+- If using a cloud/local database tool, show the interface; if using Python/local files, show your code editor
 
 **Part B - Dashboard Presentation (~2-3 min)**
 - Present your dashboard as if you're showing it to a client
