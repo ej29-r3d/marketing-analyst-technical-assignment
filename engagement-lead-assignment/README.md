@@ -5,8 +5,6 @@ Welcome! This assignment simulates a real-world scenario where you need to unify
 
 While Engagement Leads don't typically build dashboards or deploy databases in day-to-day work, we want to ensure you're technical enough to understand our clients' data, speak confidently about data transformations, and tackle any challenge that comes your way.
 
-**Time expectation:** 3-4 hours
-
 ## Data Files
 
 - `01_facebook_ads.csv` - Facebook advertising metrics
