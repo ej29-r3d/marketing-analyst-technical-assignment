@@ -20,6 +20,14 @@ Technical assignment for Engagement Lead candidates emphasizing cross-channel pe
 - Dashboard creation
 - Video walkthrough (technical + client presentation)
 
+### 3. [Technical Customer Success Assignment](./tcs-assignment/)
+Dashboard recreation challenge for Technical Customer Success candidates focusing on visualization skills and insight communication.
+
+**Key Requirements:**
+- Dashboard recreation from screenshot
+- Dummy data generation
+- Video walkthrough explaining dashboard usage and insights
+
 ## Data Files
 
 Both assignments use the same advertising data from three major platforms:
